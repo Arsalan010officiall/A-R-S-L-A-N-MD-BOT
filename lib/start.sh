@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting Secktor-Md..."
+echo "Starting A-R-S-L-A-N-MD-BOT..."
 node lib/client.js
 done
